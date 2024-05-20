@@ -1,0 +1,10 @@
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\bin\Debug\FullCalculator.exe.config
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\bin\Debug\FullCalculator.exe
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\bin\Debug\FullCalculator.pdb
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\obj\Debug\FullCalculator.csproj.AssemblyReference.cache
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\obj\Debug\FullCalculator.Form1.resources
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\obj\Debug\FullCalculator.Properties.Resources.resources
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\obj\Debug\FullCalculator.csproj.GenerateResource.cache
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\obj\Debug\FullCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\obj\Debug\FullCalculator.exe
+C:\Users\alix2\OneDrive\Рабочий стол\FullCalculator\FullCalculator\obj\Debug\FullCalculator.pdb
